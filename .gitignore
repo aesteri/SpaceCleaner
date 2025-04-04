@@ -1,0 +1,18 @@
+# Compiled files
+*.elf
+*.gba
+*.sav
+*.o
+
+# Executables
+client
+main
+
+# Docker-related
+cs2110docker-*
+
+# Java
+GBAServer.jar
+
+# PDFs (if they're generated)
+HW6.pdf
